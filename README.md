@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+<img width="949" alt="image" src="https://github.com/Dedemahendra1/healing-resort/assets/112716178/d640088f-e450-4e7a-a06c-19ca5906f8ca">
+
+
 ```bash
 npm run dev
 # or
